@@ -1,0 +1,11 @@
+{
+  "fastRightClick": true,
+  "fastLeftClick": false,
+  "fastRightClickDelay": 1,
+  "fastLeftClickDelay": 1,
+  "tickAttack": false,
+  "tickAttackDelay": 20,
+  "anchorSwitch": false,
+  "anchorSwitchDelay": 1,
+  "excluded": []
+}
