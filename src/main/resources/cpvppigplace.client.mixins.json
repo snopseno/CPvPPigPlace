@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "package": "com.snopseno.client.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "refmap": "CpvpPigPlace-refmap.json",
+  "client": [
+    "MinecraftClientMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "overwrites": {
+    "requireAnnotations": true
+  }
+}
